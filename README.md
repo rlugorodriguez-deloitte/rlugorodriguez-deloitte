@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Raul
 - 👀 Interested in Frontend, Backend & Dev-Ops
-- 🌱 Currently learning Terraform and GitHub Actions
 - 💞️ Looking to collaborate on CAP & DX1
 - 📫 You can reachme using my email rlugorodriguez@deloitte.de
 
